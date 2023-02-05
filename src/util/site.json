@@ -5,7 +5,7 @@
     "description": "",
     "siteUrl": "https://foundation.stackrole.com",
     "image": "/assets/profile_1.jpg",
-    "iconimage": "/assets/profile_1.jpg",
+    "iconimage": "/assets/icon.png",
     "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"
