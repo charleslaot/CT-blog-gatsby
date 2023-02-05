@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Carlos Trujillo
+tagline: Frontend Developer
 featuredImage: /assets/profile_cartoon.jpg
 cta:
   ctaText: Know more
